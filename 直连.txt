@@ -1,8 +1,0 @@
-time.windows.com
-*.baidu.com/*
-*.gyf.lol/*
-*.4kvm.org/*
-*.2bt0.com/*
-*.pipiys2.com/*
-*.right.com.cn/*
-*.ghxi.com/*
